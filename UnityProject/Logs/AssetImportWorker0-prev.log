@@ -1,0 +1,2176 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.52f1 (1120fcb54228) revision 1122556'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'zh' Physical Memory: 32471 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.52f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/justx/UnityProject/UnityProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51786
+Successfully changed project path to: C:/Users/justx/UnityProject/UnityProject
+C:/Users/justx/UnityProject/UnityProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [35880]  Target information:
+
+Player connection [35880]  * "[IP] 192.168.0.114 [Port] 0 [Flags] 2 [Guid] 2400843287 [EditorId] 2400843287 [Version] 1048832 [Id] WindowsEditor(7,�������q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [35880] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [35880] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Refreshing native plugins compatible for Editor in 6.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.52f1 (1120fcb54228)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/justx/UnityProject/UnityProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7971 MB
+    Driver:   31.0.15.3753
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.007540 seconds.
+- Loaded All Assemblies, in  0.269 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 289 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.548 seconds
+Domain Reload Profiling: 816ms
+	BeginReloadAssembly (89ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (102ms)
+		LoadAssemblies (88ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (90ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (549ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (514ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (349ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (119ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.479 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.428 seconds
+Domain Reload Profiling: 906ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (310ms)
+		LoadAssemblies (234ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (143ms)
+			TypeCache.Refresh (128ms)
+				TypeCache.ScanAssembly (115ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (428ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (326ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (243ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 4.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3118 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (486.5 KB). Loaded Objects now: 3602.
+Memory consumption went from 247.8 MB to 247.3 MB.
+Total: 4.477100 ms (FindLiveObjects: 0.278700 ms CreateObjectMapping: 0.106500 ms MarkObjects: 3.736600 ms  DeleteObjects: 0.353500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 612662.481447 seconds.
+  path: Assets/Motion/閃避/Human Barbarian.FBX
+  artifactKey: Guid(138494e5ac8276049a9262356a63e4f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/閃避/Human Barbarian.FBX using Guid(138494e5ac8276049a9262356a63e4f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7d76122ae3a6b75cc325f57b8de07996') in 0.217549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 314
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Weapon/玛薇卡专武-焚曜千阳_by_看到结局的人_b4e68c59f65366f9c7d2decdf576e3b2/AnyConv.com__鎖瑄縐蚳挕-煞縢栠.fbx
+  artifactKey: Guid(4fbfd077346d1c242a5120e17d21e722) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Weapon/玛薇卡专武-焚曜千阳_by_看到结局的人_b4e68c59f65366f9c7d2decdf576e3b2/AnyConv.com__鎖瑄縐蚳挕-煞縢栠.fbx using Guid(4fbfd077346d1c242a5120e17d21e722) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '8826a3e12a405bd2a40abc011fb15c6e') in 0.040643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Motion/弓/unitychan_DAMAGED00.fbx
+  artifactKey: Guid(eaae21cbde7625f469cdade4e8314cbb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/弓/unitychan_DAMAGED00.fbx using Guid(eaae21cbde7625f469cdade4e8314cbb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0b305b1742979cf98c50e9c33364ca3f') in 0.022179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 328
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Character/蓝砚/藍硯.fbx
+  artifactKey: Guid(b27e4d49e5953724094abd3db4cd166a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/蓝砚/藍硯.fbx using Guid(b27e4d49e5953724094abd3db4cd166a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6fa6f3576fa8df5732a25b280ce70f2a') in 0.634023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 508
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Character/胡桃/haiR.bmp
+  artifactKey: Guid(b16375352cf933d449b20b92732b3766) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/胡桃/haiR.bmp using Guid(b16375352cf933d449b20b92732b3766) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f61cc4750757b4100568496bde38814c') in 0.039985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Character/胡桃/skin.bmp
+  artifactKey: Guid(798b048aac51318468a504f2ad7cf789) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/胡桃/skin.bmp using Guid(798b048aac51318468a504f2ad7cf789) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'bf722bdaff2ac7b3f230ba61b5d43c0c') in 0.010836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Motion/受傷/unitychan_DAMAGED00.fbx
+  artifactKey: Guid(3cd0d3c9ab5f51b4f9ece9fed9c3b1a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/受傷/unitychan_DAMAGED00.fbx using Guid(3cd0d3c9ab5f51b4f9ece9fed9c3b1a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '04baa2131f054850f5694a5e5e4dcc3e') in 0.023863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 328
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/_TerrainAutoUpgrade/layer_ground_sediment_Aground_sediment_N8f4cab80efbd9e3e.terrainlayer
+  artifactKey: Guid(2624baf94860596458d10d7b4c796722) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/_TerrainAutoUpgrade/layer_ground_sediment_Aground_sediment_N8f4cab80efbd9e3e.terrainlayer using Guid(2624baf94860596458d10d7b4c796722) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd28e0c7464ed2542970e81c0a5107f48') in 0.006992 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Motion/待機/idle.anim
+  artifactKey: Guid(76a01ffbce4a8414fb789e2378a14773) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/待機/idle.anim using Guid(76a01ffbce4a8414fb789e2378a14773) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1d677a48f84f68abf08cca841174c953') in 0.134194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.089958 seconds.
+  path: Assets/Character/Izul/TexMat/Izul_4.png
+  artifactKey: Guid(6f153df4640fdab40ba4f2a29a4bc7ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/TexMat/Izul_4.png using Guid(6f153df4640fdab40ba4f2a29a4bc7ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a7e9403f9699aeae1a75a2293ef42802') in 0.021147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Settings/Presets/Light_Sunset.preset
+  artifactKey: Guid(ffc2a87b06a29a94eb8b43e7c864809a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/Light_Sunset.preset using Guid(ffc2a87b06a29a94eb8b43e7c864809a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1aa5033b918d1b89159878d2847a2c98') in 0.004817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/WaterFall/WaterFall01.fbx
+  artifactKey: Guid(c04a4b889278c7e4fa2f76e2fca03129) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/WaterFall/WaterFall01.fbx using Guid(c04a4b889278c7e4fa2f76e2fca03129) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd4f64f79eb850a4d57bdb0f3d80ed281') in 0.024863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ForestScene/Prefabs/Terrain/Bank03.prefab
+  artifactKey: Guid(0fd1e4a579c2ca04a8d3d6c03253f137) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Terrain/Bank03.prefab using Guid(0fd1e4a579c2ca04a8d3d6c03253f137) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b8a5230b3318e4a56573f57419fcbcff') in 0.015017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Models/Architecture/Pillar01.fbx
+  artifactKey: Guid(b0b31c2b0aa587d41806eaf431200eba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Architecture/Pillar01.fbx using Guid(b0b31c2b0aa587d41806eaf431200eba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '78b2f87ca9785c96ccf6055e3cbda224') in 0.015371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Textures/Fx/Butterfly_a.png
+  artifactKey: Guid(901f553d7d977ad49926b47ab353f1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Fx/Butterfly_a.png using Guid(901f553d7d977ad49926b47ab353f1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0c7e8994b78f60e7edcfc1b679074af4') in 0.009037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Character/蓝砚/Materials/spa_h.mat
+  artifactKey: Guid(6cddd8dbf2721854c997d58507cab6b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/蓝砚/Materials/spa_h.mat using Guid(6cddd8dbf2721854c997d58507cab6b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '94d2e0453ca6d6285e85a4934b793dc4') in 0.031144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ForestScene/Prefabs/Fx/Butterflies.prefab
+  artifactKey: Guid(e06bf6988ac259546bdc50dc9d7c3333) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Fx/Butterflies.prefab using Guid(e06bf6988ac259546bdc50dc9d7c3333) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '37059abd824ea1cd54ea74f34d9c0097') in 0.063069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ForestScene/Prefabs/Ruins/Paveway01.prefab
+  artifactKey: Guid(5c7e017c2e16c7e44b7c94d5abc02140) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Ruins/Paveway01.prefab using Guid(5c7e017c2e16c7e44b7c94d5abc02140) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '383115e771ac0ed0264070a2393d1555') in 0.008193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Prefabs/Fx/Eyes.prefab
+  artifactKey: Guid(74f9e2d3d40c0f94bb15cbe8dbeafd3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Fx/Eyes.prefab using Guid(74f9e2d3d40c0f94bb15cbe8dbeafd3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'cc2af508ddb6375f32a181e659b7bb41') in 0.021100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Settings/Presets/CloudsVolume_Night.preset
+  artifactKey: Guid(25cfb43fa2d65b848b50e081e243d8e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/CloudsVolume_Night.preset using Guid(25cfb43fa2d65b848b50e081e243d8e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1667a681a15c2ac1703b11f9618f9ba2') in 0.006652 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ForestScene/Settings/URP/URP_10.3.2.unitypackage
+  artifactKey: Guid(0ed21a2d0f8d17042bc2a5914c5c040f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/URP/URP_10.3.2.unitypackage using Guid(0ed21a2d0f8d17042bc2a5914c5c040f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'debd1bb88f89388fac652a09e51f5db6') in 0.003735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ForestScene/Models/Architecture/ArchBroken01.fbx
+  artifactKey: Guid(9616a9751f0541a4ab80e9616fa99491) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Architecture/ArchBroken01.fbx using Guid(9616a9751f0541a4ab80e9616fa99491) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '41eebf56ac843d8597deeb9558037c9b') in 0.007234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Textures/Fx/FirefliesTrail_a.png
+  artifactKey: Guid(e687f65a8eece754ab03efcac141f636) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Fx/FirefliesTrail_a.png using Guid(e687f65a8eece754ab03efcac141f636) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0a202234b765cb36de9f0b13ad7e5d50') in 0.007069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Textures/Sky/SkyDay.mat
+  artifactKey: Guid(15dfb58bbc094e040909a61e749fec7e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Sky/SkyDay.mat using Guid(15dfb58bbc094e040909a61e749fec7e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '9ba98b0f0f8d2abf0b3400b42b407f9e') in 0.007103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Settings/Presets/CloudsVolume_Swirly.preset
+  artifactKey: Guid(2e9e790f18131d34d8e0254771482831) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/CloudsVolume_Swirly.preset using Guid(2e9e790f18131d34d8e0254771482831) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '22639d84ca56c9d5e7d8304c16ee2f2e') in 0.003732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Settings/Presets/Light_Overcast.preset
+  artifactKey: Guid(1017e03f8f00d7e44b00f281f1284faf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/Light_Overcast.preset using Guid(1017e03f8f00d7e44b00f281f1284faf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2f0c182dcd296d8f5638037b43ba2dc5') in 0.003024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Prefabs/Fx/TreeLeaves.prefab
+  artifactKey: Guid(2e1e0874f8a551f4dbc25e6b133e889b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Fx/TreeLeaves.prefab using Guid(2e1e0874f8a551f4dbc25e6b133e889b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '20939ed24a6eaba4fe10f439cb9fb886') in 0.027414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Banks/Bank01.fbx
+  artifactKey: Guid(e9491263f0be1dc49b568d3fad06a37a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Bank01.fbx using Guid(e9491263f0be1dc49b568d3fad06a37a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd8aa2ca701b5847375be392a245bc5ad') in 0.008549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Settings/Presets/CloudsVolume_Overcast.preset
+  artifactKey: Guid(a58663a983a4087478d9f86828d46b10) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/CloudsVolume_Overcast.preset using Guid(a58663a983a4087478d9f86828d46b10) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7592b6af1f615773f0fe61e95a8cefd5') in 0.006046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Character/胡桃/tex/F.png
+  artifactKey: Guid(db8239c13b244454e9e6ca57d28fd27d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/胡桃/tex/F.png using Guid(db8239c13b244454e9e6ca57d28fd27d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '35dc09f678e1ad6d3b255d290950f5f3') in 0.008621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Ruins/Pillar01.prefab
+  artifactKey: Guid(29b1dd494f190f647bdfc68caed1a87f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Ruins/Pillar01.prefab using Guid(29b1dd494f190f647bdfc68caed1a87f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c858552d0af8c14d9cd5edd4f4771430') in 0.004530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Character/蓝砚/normalmap/hair.fx
+  artifactKey: Guid(745cc5af0c179e146bff76a5f0fcfbc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/蓝砚/normalmap/hair.fx using Guid(745cc5af0c179e146bff76a5f0fcfbc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6ebb6531777e53ff94be440f39626b25') in 0.003491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ForestScene/Prefabs/Terrain/Bank02.prefab
+  artifactKey: Guid(583887ca9ad78a6439f41f1d5aee4ba9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Terrain/Bank02.prefab using Guid(583887ca9ad78a6439f41f1d5aee4ba9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1464f2d6ded8cd40328557515c49ffeb') in 0.006859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Settings/Presets/Water_Overcast.preset
+  artifactKey: Guid(53cd9ce2447dc9c409690741a41873c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Settings/Presets/Water_Overcast.preset using Guid(53cd9ce2447dc9c409690741a41873c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fbac1dc4a328e046d9595dcc30f6182a') in 0.008192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Character/蓝砚/normalmap/body.png
+  artifactKey: Guid(7335ba20d0cb66346bf2be2f744e7ef9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/蓝砚/normalmap/body.png using Guid(7335ba20d0cb66346bf2be2f744e7ef9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7ea586215ec33b2f6789325da4c8a5ac') in 0.012262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.631638 seconds.
+  path: Assets/ForestScene/Textures/Sky/SkySunset.mat
+  artifactKey: Guid(f620df45c7826784586fd9f30170aab9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Sky/SkySunset.mat using Guid(f620df45c7826784586fd9f30170aab9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b531d52f1534285a075ed1deb7ca700c') in 0.005419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Bank03_o.png
+  artifactKey: Guid(4b3d8e5ccac7720479ebbb4766073456) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Bank03_o.png using Guid(4b3d8e5ccac7720479ebbb4766073456) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b5774c1cd590a7fb4e1b86a25d9c8289') in 0.014431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Jump-Flip.FBX
+  artifactKey: Guid(806ec0312335dcd4aa59baadbf13ff9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Jump-Flip.FBX using Guid(806ec0312335dcd4aa59baadbf13ff9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5982904935b6498251c18e1a10b8d4e1') in 0.014067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Sand02_a.png
+  artifactKey: Guid(b0076ea7bd63231428f83169131767df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Sand02_a.png using Guid(b0076ea7bd63231428f83169131767df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f2e91d34ca52717cfbcea29d44e7a61c') in 0.009779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Roll-Left.FBX
+  artifactKey: Guid(f58224593ab6ad849b37d203364c1ce4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Roll-Left.FBX using Guid(f58224593ab6ad849b37d203364c1ce4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '55458629fe4626e21deadabe175c9ec5') in 0.014168 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Snowdrift01_n.png
+  artifactKey: Guid(76199fd299d0a724bab9cf107b11d357) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Snowdrift01_n.png using Guid(76199fd299d0a724bab9cf107b11d357) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '08892cc2fe3f828e8b6879dbc138ad6b') in 0.014505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/mc3.png
+  artifactKey: Guid(845b31ef4bb0f00479015aaefe8352d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/mc3.png using Guid(845b31ef4bb0f00479015aaefe8352d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '623b3cee48a54850ad240a62bcb40c27') in 0.011405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Strafe-Right.FBX
+  artifactKey: Guid(9f2cd5651f41077488b70ee6fb92ad24) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Strafe-Right.FBX using Guid(9f2cd5651f41077488b70ee6fb92ad24) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'df76b802588b081f8cd16118159ec3c6') in 0.012929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/toon3.png
+  artifactKey: Guid(50ceb82b72e7d2a41bd2e8f6b64e5b35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/toon3.png using Guid(50ceb82b72e7d2a41bd2e8f6b64e5b35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'bb897e14b15eeac12c8314f80f66d419') in 0.009177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Moss_n.png
+  artifactKey: Guid(9302f85d940c1e24abf248a813b1ef87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Moss_n.png using Guid(9302f85d940c1e24abf248a813b1ef87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '30737b5eaa3922221429888b484587be') in 0.013834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Grass02_m.png
+  artifactKey: Guid(14f5d944a5c4c374cb565f5f1a45a865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Grass02_m.png using Guid(14f5d944a5c4c374cb565f5f1a45a865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4155d6bf279693714e5eed166fc1295c') in 0.011119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Attack1.FBX
+  artifactKey: Guid(dce280ced5e006c4cb0eb0fab2f51b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Attack1.FBX using Guid(dce280ced5e006c4cb0eb0fab2f51b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'eb62b88914d4f90771cd0f3f708c8183') in 0.014153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Mud01_n.png
+  artifactKey: Guid(86010af9cff01444cbacf33d8e938bcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Mud01_n.png using Guid(86010af9cff01444cbacf33d8e938bcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd2c3d09745f2e607152a9d0d39998586') in 0.009930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Sand02_n.png
+  artifactKey: Guid(582a2fe8fa2467e40a1a6dfc6ce8f7a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Sand02_n.png using Guid(582a2fe8fa2467e40a1a6dfc6ce8f7a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4b7f6104645f4337837210e207900a23') in 0.011921 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/脸.png
+  artifactKey: Guid(0df117c8c1fa7b5499b59122d3f12aac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/脸.png using Guid(0df117c8c1fa7b5499b59122d3f12aac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e6ae04052b386aff4764dd8f90e28008') in 0.009704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Grass02_a.png
+  artifactKey: Guid(d112ffdea66f2fc4f8bd570b84a3e103) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Grass02_a.png using Guid(d112ffdea66f2fc4f8bd570b84a3e103) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '9aa53fd0e77f2c88b894e661bc6531ac') in 0.008315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Mud01_a.png
+  artifactKey: Guid(4944753a01200334fb9c5b9b3a727740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Mud01_a.png using Guid(4944753a01200334fb9c5b9b3a727740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '3927ca71b8120ca7090c50be9f1f8334') in 0.011845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Turn-Right-Loop.FBX
+  artifactKey: Guid(849e670be82d0134b82c074066579c3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Turn-Right-Loop.FBX using Guid(849e670be82d0134b82c074066579c3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '48a9efa51811557fbc54404d323d0f2d') in 0.013918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Bank02_a.png
+  artifactKey: Guid(f18894443f319cd42995b715eb7cde7f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Bank02_a.png using Guid(f18894443f319cd42995b715eb7cde7f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fa830be7a5d25d727876c6e5fe80fa91') in 0.012146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Snowdrift01_o.png
+  artifactKey: Guid(b7052f592bceb5f4cacf00d498085597) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Snowdrift01_o.png using Guid(b7052f592bceb5f4cacf00d498085597) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1ed5e70fa57cd2d696ebd329630d5292') in 0.012094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-GetHit-F2.FBX
+  artifactKey: Guid(f8cbd01bd5b649048bf365e4ece13d69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-GetHit-F2.FBX using Guid(f8cbd01bd5b649048bf365e4ece13d69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'eb6a4064b137ae413a21ea5ff7d526d7') in 0.013106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Character/Izul/Animation/Handsign/Izul_Rocknroll1.anim
+  artifactKey: Guid(7b0f0079264f0d14eab1fbe176fac911) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Animation/Handsign/Izul_Rocknroll1.anim using Guid(7b0f0079264f0d14eab1fbe176fac911) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2521c6fca2b9d45d2cd143248b6e28dc') in 0.006896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Bank03_n.png
+  artifactKey: Guid(b429070c64690d645879e481b312bcd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Bank03_n.png using Guid(b429070c64690d645879e481b312bcd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '85351194a0f545f77fd8689bbbf11811') in 0.014788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-GetHit-F1.FBX
+  artifactKey: Guid(861c5aaef9829104d9122fa96811dfb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-GetHit-F1.FBX using Guid(861c5aaef9829104d9122fa96811dfb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '07fabeb789b4eb186834f54658105796') in 0.020663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Unsheath-Back-Unarmed.FBX
+  artifactKey: Guid(f95c96d798bb3b14c8087b88ad5c9f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Unsheath-Back-Unarmed.FBX using Guid(f95c96d798bb3b14c8087b88ad5c9f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '9b6f89b63360a00b96d6c1462910598d') in 0.015453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Bank04_n.png
+  artifactKey: Guid(ba6738851e307204dac09b6d4c655ebe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Bank04_n.png using Guid(ba6738851e307204dac09b6d4c655ebe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd99271e99a846b2bee68d0002c3a1f01') in 0.013299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Sand02b_n.png
+  artifactKey: Guid(6bee43fa88d3e444fa79d8ab461c5f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Sand02b_n.png using Guid(6bee43fa88d3e444fa79d8ab461c5f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2876eb247286bb345dd34fce2255ef34') in 0.013195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Turn-Left-Loop.FBX
+  artifactKey: Guid(3ad475c9124748342946b175e003cda0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Turn-Left-Loop.FBX using Guid(3ad475c9124748342946b175e003cda0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '94a915cc448d8189824716ba6abe8958') in 0.015233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Stunned.FBX
+  artifactKey: Guid(6e642256f2433e241890f2a0ef6ca412) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Stunned.FBX using Guid(6e642256f2433e241890f2a0ef6ca412) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '83b9c69b7ecdc164ad80bc0685b50ed0') in 0.011388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Textures/Water/Water01_foam_mask.png
+  artifactKey: Guid(df6a164e45088bb4eaee92b8d6ba7514) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Water/Water01_foam_mask.png using Guid(df6a164e45088bb4eaee92b8d6ba7514) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4bc5092eed69de15432fc926e4b47455') in 0.010262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Strafe-Left.FBX
+  artifactKey: Guid(5138183205551c5448d78f2f2e6aaa56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/2Hand-Sword/RPG-Character@2Hand-Sword-Strafe-Left.FBX using Guid(5138183205551c5448d78f2f2e6aaa56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4fcc3673a95d30e003aab57011fc5d76') in 0.013569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Character/Izul/Animation/Handsign/Izul_Handopen.anim
+  artifactKey: Guid(7ac93141747d24d449a7b80867d81ee5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Animation/Handsign/Izul_Handopen.anim using Guid(7ac93141747d24d449a7b80867d81ee5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '02199a57a638fff7b762ab131117dae4') in 0.005718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Textures/Water/Water01_foam_n.png
+  artifactKey: Guid(3cfd62d17e8d12640ab92f82a01da633) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Water/Water01_foam_n.png using Guid(3cfd62d17e8d12640ab92f82a01da633) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a3e990d34e02fb4724857ee182997515') in 0.012892 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Character/Izul/Animation/Blink/Body.controller
+  artifactKey: Guid(51a412fdf1e2a594a97433d3644e8275) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Animation/Blink/Body.controller using Guid(51a412fdf1e2a594a97433d3644e8275) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '18f5a76b1dcc32c2dbe5ebbb024ebe76') in 0.006958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.454790 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Snowdrift02_n.png
+  artifactKey: Guid(09a2a0691140a0443889d78e75e4b26c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Banks/Textures/Snowdrift02_n.png using Guid(09a2a0691140a0443889d78e75e4b26c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '90b6f051495b75e09902977003ca092a') in 0.019690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Models/Vegetation/BirchTrees/BirchTree01.fbx
+  artifactKey: Guid(6e5b4aac1ac6895478dc397391c157b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/BirchTrees/BirchTree01.fbx using Guid(6e5b4aac1ac6895478dc397391c157b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'acfb8f066a2b129488cf1fc9ee6c904e') in 0.014192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree05_n.png
+  artifactKey: Guid(3341c06f65712f3418eebdbcd5d8e241) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree05_n.png using Guid(3341c06f65712f3418eebdbcd5d8e241) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '3af691ef90dc08bb329f66b5df36f563') in 0.008493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/PineTree03b_n.png
+  artifactKey: Guid(e9b86ca4ba4d95b4cb5a51c4920bc515) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/PineTree03b_n.png using Guid(e9b86ca4ba4d95b4cb5a51c4920bc515) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a3bcf32b0e6c5a8def848d3ef46a3fb5') in 0.010696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_n.png
+  artifactKey: Guid(08f57468de42a964d82db05fbabfb6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_n.png using Guid(08f57468de42a964d82db05fbabfb6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '48b1f16b8a7d70858b121cdc60e49d9e') in 0.008509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Rock05.fbx
+  artifactKey: Guid(f0c1fafaa13191646a776ce4bdb69c3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Rock05.fbx using Guid(f0c1fafaa13191646a776ce4bdb69c3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1798d99ea9a427847255f4ddd8352c04') in 0.011311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Pine04_id.png
+  artifactKey: Guid(a87cabceb8fe9204b9c16b2d40f9528c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Pine04_id.png using Guid(a87cabceb8fe9204b9c16b2d40f9528c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '3bc8ddc30ea2836d8e378c64e60f10f7') in 0.007451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff02e.fbx
+  artifactKey: Guid(320d86c7ea6ccb14daae84af72936ca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff02e.fbx using Guid(320d86c7ea6ccb14daae84af72936ca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ddd1452002fdcba84dbe0837233799f9') in 0.011441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff03g.fbx
+  artifactKey: Guid(1de2bff64e54872448f9fb5ca0b56cb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff03g.fbx using Guid(1de2bff64e54872448f9fb5ca0b56cb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'dcc917b66b8dc13a5e0265c01cee4c71') in 0.010530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Pine04_n.png
+  artifactKey: Guid(3488c019b0981a948aeaeb2000c63949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Pine04_n.png using Guid(3488c019b0981a948aeaeb2000c63949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b0b2da02639902ca74d3b1570c95deed') in 0.008329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff04.fbx
+  artifactKey: Guid(20e6961ebaae33d4cafeb3c5c2433376) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff04.fbx using Guid(20e6961ebaae33d4cafeb3c5c2433376) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6b53a907aa9166f4ad5ad84ad1361e32') in 0.011915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Rock06.fbx
+  artifactKey: Guid(3ef54dab4b56d6a41814fbf07e63eb80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Rock06.fbx using Guid(3ef54dab4b56d6a41814fbf07e63eb80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '317b08f26f519cae93ba4337d502d30e') in 0.007284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree04_id.png
+  artifactKey: Guid(2d813f4414367324398a8ca1dbb9344a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree04_id.png using Guid(2d813f4414367324398a8ca1dbb9344a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'dd1ab31e549644d106fe4af951c86e29') in 0.011453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Bush02_n.png
+  artifactKey: Guid(398b30016523dc14c887c6dd38757c16) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Bush02_n.png using Guid(398b30016523dc14c887c6dd38757c16) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '07990eb75a8c846ba097db9e6d379b44') in 0.007643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Ivy/Ivy04.fbx
+  artifactKey: Guid(26d26f4469ffec64183f9a89397c68a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Ivy/Ivy04.fbx using Guid(26d26f4469ffec64183f9a89397c68a8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'cc230c395ed58a7aa169e1d856324372') in 0.009455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_id.png
+  artifactKey: Guid(68c62076df73c0146aef5dd045aa96b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_id.png using Guid(68c62076df73c0146aef5dd045aa96b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b0801e28f2f4cdb58adddd4b86793319') in 0.008839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree03_id.png
+  artifactKey: Guid(c76e5865807f78a49999430391dae3cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree03_id.png using Guid(c76e5865807f78a49999430391dae3cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '95636d53585f4ee77a353954837556ff') in 0.007313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Rock08.fbx
+  artifactKey: Guid(8932f97f36d732a49900e3655b08ab81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Rock08.fbx using Guid(8932f97f36d732a49900e3655b08ab81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f7623e55caed7ff5932cd4a6f879eab3') in 0.012897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff03e.fbx
+  artifactKey: Guid(2c36ac845a5d8a644ae6f6c29a5f2ce6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff03e.fbx using Guid(2c36ac845a5d8a644ae6f6c29a5f2ce6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'acb2747b0fe7e6d6f8c8b833e6f54f17') in 0.009124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree03_n.png
+  artifactKey: Guid(4c1ea70d9fb1abd41a7218d60e26b18b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree03_n.png using Guid(4c1ea70d9fb1abd41a7218d60e26b18b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c69d1f9fbcc28312bceb84203c94a4ec') in 0.010739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Mushroom04.fbx
+  artifactKey: Guid(c2970452f1517f44cb8affd2cf0702ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Mushroom04.fbx using Guid(c2970452f1517f44cb8affd2cf0702ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6e96c3d113fa0ad2160c0d59d14cadb4') in 0.008501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Vegetation/BirchTrees/BirchTree04.fbx
+  artifactKey: Guid(32f1fb17a8ed53f4fbce563565dcc95c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/BirchTrees/BirchTree04.fbx using Guid(32f1fb17a8ed53f4fbce563565dcc95c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5a9fb97bf95b0d26ecc6d66b89177b81') in 0.015056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree02_id.png
+  artifactKey: Guid(0cd18bee33f1c3043b4277c1bbc3fd5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree02_id.png using Guid(0cd18bee33f1c3043b4277c1bbc3fd5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd21d31392f141403cbdfe8a89c2a3edb') in 0.007729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ForestScene/Models/Rocks/RocksModular/RockModular05.fbx
+  artifactKey: Guid(845ebc3c8702c2d4084b46ff6db6bd68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/RocksModular/RockModular05.fbx using Guid(845ebc3c8702c2d4084b46ff6db6bd68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7588e85baf04d884ccc268b12441a9d0') in 0.012973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Ivy/Ivy05.fbx
+  artifactKey: Guid(662df16dcbe5a774297e6ec9fd01ab73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Ivy/Ivy05.fbx using Guid(662df16dcbe5a774297e6ec9fd01ab73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '9c9a1c0c2c86b3314009652fb2a1752b') in 0.008849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Bushes/Bush01.fbx
+  artifactKey: Guid(012176b24e527d549b1758026f269367) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Bushes/Bush01.fbx using Guid(012176b24e527d549b1758026f269367) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7a6b059b6c5f6df1508ce1e390b34265') in 0.011144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff03d.fbx
+  artifactKey: Guid(f4ecaa0bea8ccdf4db56be72704b51c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff03d.fbx using Guid(f4ecaa0bea8ccdf4db56be72704b51c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0cd4c1f93402533be93bab5ec2674b22') in 0.012426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Roots03.fbx
+  artifactKey: Guid(8754f7787e5a1d6429d06a5e8d01eb1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Roots03.fbx using Guid(8754f7787e5a1d6429d06a5e8d01eb1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '794f32b5a6070c7b944ed1858c499bfd') in 0.008380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Roots04.fbx
+  artifactKey: Guid(b444b20d21f503c4c9e9ead865af42d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Roots04.fbx using Guid(b444b20d21f503c4c9e9ead865af42d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '79480e20de1c1087a4f6f992a1eb88a8') in 0.010089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Cliff01.fbx
+  artifactKey: Guid(337e7ea00c398a240bf3322b03834cd6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Cliff01.fbx using Guid(337e7ea00c398a240bf3322b03834cd6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '15f634ecede09d9ac01770cf5f211ad7') in 0.009410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.418009 seconds.
+  path: Assets/ForestScene/Models/Vegetation/PineTrees/PineTree02b.fbx
+  artifactKey: Guid(be37932e11d7378478ca7a9a54df3926) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/PineTrees/PineTree02b.fbx using Guid(be37932e11d7378478ca7a9a54df3926) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd705a2cc43f130a9617c1ed88ca1399a') in 0.018262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Boulders/Boulder03.prefab
+  artifactKey: Guid(415651c5e216f044c96f1cd705d2eafd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Boulders/Boulder03.prefab using Guid(415651c5e216f044c96f1cd705d2eafd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd0584f29046644557c7971461233f731') in 0.008679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff04_Snow.prefab
+  artifactKey: Guid(985a0294d1e94a54a8552d011c99e253) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff04_Snow.prefab using Guid(985a0294d1e94a54a8552d011c99e253) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '70d848e060d6359d6727a682248937f1') in 0.011412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Motion/弓/ArcherAni/Animations/Ranger_fall_to_ground.anim
+  artifactKey: Guid(c3c3cb901d28c3b4ea2f2598b0381769) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/弓/ArcherAni/Animations/Ranger_fall_to_ground.anim using Guid(c3c3cb901d28c3b4ea2f2598b0381769) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1c3cd90d119b210929e6ae20c48682df') in 0.010435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/PineTreeDead01b.prefab
+  artifactKey: Guid(764d3c904c8c4fc409afb75bb7ff6e71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/PineTreeDead01b.prefab using Guid(764d3c904c8c4fc409afb75bb7ff6e71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '3e64df7b9e03ec9013c9e28f96fe56f4') in 0.008711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock03_Snow.prefab
+  artifactKey: Guid(b4b7d12281e673c4db16266ee2c09e3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock03_Snow.prefab using Guid(b4b7d12281e673c4db16266ee2c09e3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '95f06b99765ca6815899641c5b35cc97') in 0.007772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff05_Snow.prefab
+  artifactKey: Guid(1f2bc8dadb78fa9429275202e99fdfc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff05_Snow.prefab using Guid(1f2bc8dadb78fa9429275202e99fdfc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '26400e6c40385ef2b70f678033d04537') in 0.009877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Textures/Fx/Materials/Eyes.mat
+  artifactKey: Guid(a284e1709279a714bab24e0c55a0778f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Fx/Materials/Eyes.mat using Guid(a284e1709279a714bab24e0c55a0778f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '29fbe1cf3390d82f1f74f78c5636250e') in 0.008257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Motion/弓/ArcherAni/Animations/Ranger_Idle.anim
+  artifactKey: Guid(b4bbb67c8f59fe44282e00dc60f28644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/弓/ArcherAni/Animations/Ranger_Idle.anim using Guid(b4bbb67c8f59fe44282e00dc60f28644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4fa753a55ca00d5c2c0cb6055c7ad709') in 0.028575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Textures/Water/Materials/Ocean.mat
+  artifactKey: Guid(c28400c4cd0d765408fd120a279d9f33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Water/Materials/Ocean.mat using Guid(c28400c4cd0d765408fd120a279d9f33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '27d78a96f57baed69eb5014d99775f3c') in 0.007088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks/Rock10.prefab
+  artifactKey: Guid(6e587ac5aaaaa094383ec5f5749b0f3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks/Rock10.prefab using Guid(6e587ac5aaaaa094383ec5f5749b0f3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5b42c9c3516b9edf7330501c4b9aec8f') in 0.006771 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular06.prefab
+  artifactKey: Guid(4b3c1e9580cfb4e47a4c16effb866de8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular06.prefab using Guid(4b3c1e9580cfb4e47a4c16effb866de8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '91b1deafdb6cc3754d2a3efe895ee822') in 0.009373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-1.exr
+  artifactKey: Guid(fcc6216669f5503458de3517ba28cd29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-1.exr using Guid(fcc6216669f5503458de3517ba28cd29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2526da2b608cfbf22633cf0284e11053') in 0.010369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs/Cliff04.prefab
+  artifactKey: Guid(06ce404f8f042b4409195b56db7ea6f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs/Cliff04.prefab using Guid(06ce404f8f042b4409195b56db7ea6f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fcc7a86428a096699d85ff6ad6bb47f2') in 0.006743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Ivy/Ivy04.prefab
+  artifactKey: Guid(66d79f9c276e2e848a09cee817df3ed4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Ivy/Ivy04.prefab using Guid(66d79f9c276e2e848a09cee817df3ed4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1b4f399856dd4f92528cc64016a61c9f') in 0.007780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/Lightmap-0_comp_light.exr
+  artifactKey: Guid(eb4be8747e511bc49984773cdb422a23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/Lightmap-0_comp_light.exr using Guid(eb4be8747e511bc49984773cdb422a23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c58a9398560e34d1eca3c853c0f811f9') in 0.012510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03f_Snow.prefab
+  artifactKey: Guid(2b06be5b874d06d47a9c710e8472d9f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03f_Snow.prefab using Guid(2b06be5b874d06d47a9c710e8472d9f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5e13a9c2da4675322960b06b28c074b0') in 0.007702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock11_Snow.prefab
+  artifactKey: Guid(06b6214172273fd479ec658951367a5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock11_Snow.prefab using Guid(06b6214172273fd479ec658951367a5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6411149b3ff8d4ce3bb548ca050b3032') in 0.008371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Materials/Snow01.mat
+  artifactKey: Guid(f1fbda223c4a6574983562979fd9c554) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Materials/Snow01.mat using Guid(f1fbda223c4a6574983562979fd9c554) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '43f61b23a0979c984d9d836efd9efc33') in 0.030976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/TerrainLayers/Mud01.terrainlayer
+  artifactKey: Guid(4085435386ddb064696f7df74be366ef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/TerrainLayers/Mud01.terrainlayer using Guid(4085435386ddb064696f7df74be366ef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7a7bd8d7ad3a329cf8f8157c0eaddb95') in 0.023623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Boulders_Snow/Boulder04_Snow.prefab
+  artifactKey: Guid(05efb203376729948a9b9a559fd0adc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Boulders_Snow/Boulder04_Snow.prefab using Guid(05efb203376729948a9b9a559fd0adc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7f95f3101a4f256651ebb6397b00cd6a') in 0.005187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree02c.prefab
+  artifactKey: Guid(8a910e6cb72592945a884457364a70e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree02c.prefab using Guid(8a910e6cb72592945a884457364a70e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '30557ca5c6c6e4e094143f880f4255ed') in 0.005271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Ivy/Ivy01.prefab
+  artifactKey: Guid(246b16ff4ad12bd498c4da9392ae1bdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Ivy/Ivy01.prefab using Guid(246b16ff4ad12bd498c4da9392ae1bdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '910fab7a10db3b95306ee0ddf18672c5') in 0.004941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-3.exr
+  artifactKey: Guid(8ede9e2382af7f44ca1e6aaf4c3f38cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-3.exr using Guid(8ede9e2382af7f44ca1e6aaf4c3f38cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5401f71272635952cf1223dfa9f4686e') in 0.008382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/BirchTree03.prefab
+  artifactKey: Guid(ecac3f65091069245a01303633219238) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/BirchTree03.prefab using Guid(ecac3f65091069245a01303633219238) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '11895ed9784054384e093ee1a3859b3e') in 0.005844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular08.prefab
+  artifactKey: Guid(bbe01da462ebacd418b30f7b3c6deaae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular08.prefab using Guid(bbe01da462ebacd418b30f7b3c6deaae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '28beaa8d9b2f358bc3ca5aa2c1e9ed39') in 0.006977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular01.prefab
+  artifactKey: Guid(de13db822163104478035d99f8606c96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/RocksModular/RockModular01.prefab using Guid(de13db822163104478035d99f8606c96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1ee6b6397c67d5384c2c777bfeaccd17') in 0.006533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03b_Snow.prefab
+  artifactKey: Guid(c50a33fe4914a4140b0bc9fa62e082dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03b_Snow.prefab using Guid(c50a33fe4914a4140b0bc9fa62e082dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c998d7f3b88202069ff0ae55fdb674ed') in 0.006760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ForestScene/Textures/Water/Materials/Water01.mat
+  artifactKey: Guid(ba4ba0607edb5754bb79b829283324a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Water/Materials/Water01.mat using Guid(ba4ba0607edb5754bb79b829283324a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '63ebd62b890e0fd0835cbfb299877000') in 0.004845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03d_Snow.prefab
+  artifactKey: Guid(e3a8d5639e705bc459a4fec7f3bd7a83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff03d_Snow.prefab using Guid(e3a8d5639e705bc459a4fec7f3bd7a83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7ab14c62d8e4d264e9ba6cd26f2fb227') in 0.006370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff02d_Snow.prefab
+  artifactKey: Guid(44148bbb8fa3b294e8e6d0ba8a9ea02a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs_Snow/Cliff02d_Snow.prefab using Guid(44148bbb8fa3b294e8e6d0ba8a9ea02a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ab60b9ba61b229437d7a84e677bdd375') in 0.006625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks/Rock02.prefab
+  artifactKey: Guid(98e111bd0ee494347950aecd6570b461) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks/Rock02.prefab using Guid(98e111bd0ee494347950aecd6570b461) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '280f59931e26dc68a6d416f0eac8c261') in 0.006742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Ivy/IvyAngle01.prefab
+  artifactKey: Guid(76dba9c72aa15e54fa78714bb35f6c72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Ivy/IvyAngle01.prefab using Guid(76dba9c72aa15e54fa78714bb35f6c72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b45d1f12c5b4088c81f1edcc61bbf851') in 0.005506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Textures/Fx/Materials/Birds.mat
+  artifactKey: Guid(2f243052e777d084db3b236b8057ec81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Fx/Materials/Birds.mat using Guid(2f243052e777d084db3b236b8057ec81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ccfc400bec8b2b73945b9a8342c46627') in 0.033911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks/Rock09.prefab
+  artifactKey: Guid(164a8be4f1d656d4dbdfa93c83987bb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks/Rock09.prefab using Guid(164a8be4f1d656d4dbdfa93c83987bb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd7f6215cec901c9d1839658b4b2df367') in 0.008051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree04.prefab
+  artifactKey: Guid(492af20740d5e0f49a43c5d98bc920b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree04.prefab using Guid(492af20740d5e0f49a43c5d98bc920b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '856fd620bf22ba39081d17d1bdb7137a') in 0.005451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree03b.prefab
+  artifactKey: Guid(691d6a013134cf643851db70996ca9df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree03b.prefab using Guid(691d6a013134cf643851db70996ca9df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b6a0811a2be1d97ef4793496a9120e7f') in 0.007454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks/Rock05.prefab
+  artifactKey: Guid(68ebb50b534c55949ba67834bd30f310) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks/Rock05.prefab using Guid(68ebb50b534c55949ba67834bd30f310) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4dba646aa2936a179852e78900f665dd') in 0.008404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/TerrainLayers/Mud02.terrainlayer
+  artifactKey: Guid(e9861b63a4ea2d64bbaaeaea122eef89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/TerrainLayers/Mud02.terrainlayer using Guid(e9861b63a4ea2d64bbaaeaea122eef89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '251f39c7c94b27f00d0587353af6c4a1') in 0.008046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/TallTree02.prefab
+  artifactKey: Guid(4b75ac9271b448e46affdc010a9cc421) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/TallTree02.prefab using Guid(4b75ac9271b448e46affdc010a9cc421) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ce88f9d412be3dbdd190aa0d7ec3fada') in 0.005285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Cliffs/Cliff03c.prefab
+  artifactKey: Guid(fb82ba3b96007de488aa68e84e82ce70) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Cliffs/Cliff03c.prefab using Guid(fb82ba3b96007de488aa68e84e82ce70) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fa458c86e10d3304e6010d057352deaf') in 0.007335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Bushes/Bush02_Snow.prefab
+  artifactKey: Guid(73956e97d7c6bf848992a020d0d25c44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Bushes/Bush02_Snow.prefab using Guid(73956e97d7c6bf848992a020d0d25c44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f875977cc047937112b17e0c2f3fe5af') in 0.005466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/BirchTree04.prefab
+  artifactKey: Guid(3aca7702975f4f0478b74b22f4d9ff47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/BirchTree04.prefab using Guid(3aca7702975f4f0478b74b22f4d9ff47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'aa5c31751faace6724300297364afb5d') in 0.004847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Prefabs/Scene_Prefabs/ReflectionProbe-0.exr
+  artifactKey: Guid(6b0f9831cdc89824bba0395ef97055d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Scenes/Scene_Prefabs/Scene_Prefabs/ReflectionProbe-0.exr using Guid(6b0f9831cdc89824bba0395ef97055d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fb9d413d20fa0c82dbdd37aeac744f83') in 0.009508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock12_Snow.prefab
+  artifactKey: Guid(86f3e0c5694b4e14194431648d07dfdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Rocks/Rocks_Snow/Rock12_Snow.prefab using Guid(86f3e0c5694b4e14194431648d07dfdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'dfae6cf381a4e43d3273ccdfb7312db3') in 0.009980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree04b.prefab
+  artifactKey: Guid(ae8423b0ec0511b45a734a1a54992b1f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Prefabs/Vegetation/Trees/PineTree04b.prefab using Guid(ae8423b0ec0511b45a734a1a54992b1f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '80a321aad3fe575cd0970e4e20bd9f06') in 0.006653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Motion/弓/ArcherAni/Animations/Ranger_Jump.anim
+  artifactKey: Guid(8f8f80f4dd9da44428cf71642971005d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/弓/ArcherAni/Animations/Ranger_Jump.anim using Guid(8f8f80f4dd9da44428cf71642971005d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e91367f94cec17c428079ab74cc61f66') in 0.010135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/LightingData.asset
+  artifactKey: Guid(43af692f44cda86418bec706d4180fe8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/LightingData.asset using Guid(43af692f44cda86418bec706d4180fe8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '8b532dc429ff04710118c814794a0442') in 0.005902 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Materials/Sand02.mat
+  artifactKey: Guid(d8295b1bbe5ffb64199fcbac0fc1ed43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Textures/Surfaces/Materials/Sand02.mat using Guid(d8295b1bbe5ffb64199fcbac0fc1ed43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '31ee8472e4a30f1051eff18e3ee5686f') in 0.041367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.055610 seconds.
+  path: Assets/Motion/弓/ArcherAni/Animations/Ranger_Normal Shot V1_1.anim
+  artifactKey: Guid(e3e0620a055a84e9c9b4108b3a573eae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/弓/ArcherAni/Animations/Ranger_Normal Shot V1_1.anim using Guid(e3e0620a055a84e9c9b4108b3a573eae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6dfb68764e1e22d2356a818c1e3893e5') in 0.074198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff03_m.png
+  artifactKey: Guid(66388d0deaefd664b921ac106404097e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff03_m.png using Guid(66388d0deaefd664b921ac106404097e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '49b6b9e4c141b85a4f1285c8797adffd') in 0.029213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/png/Izul_3_mask_matcap.png
+  artifactKey: Guid(8c18c66007ab99f41ad41695c53168f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/png/Izul_3_mask_matcap.png using Guid(8c18c66007ab99f41ad41695c53168f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '964cfe6ee7d6fd0773d0c917f1946242') in 0.008747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeBaseBroken01_a.png
+  artifactKey: Guid(a7ff399508793c54cb996dd6717b05f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeBaseBroken01_a.png using Guid(a7ff399508793c54cb996dd6717b05f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2a53abbe260aca210f74a3bf39fe4eba') in 0.007282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/Death.fbx
+  artifactKey: Guid(2f54a9eedbadcb14092b79f5e17b8bfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/Death.fbx using Guid(2f54a9eedbadcb14092b79f5e17b8bfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fb90b1d94a275326543e35e14a805cb6') in 0.016426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff01_a.png
+  artifactKey: Guid(a9abc4ecc6b62ca4f9543e441e5895fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff01_a.png using Guid(a9abc4ecc6b62ca4f9543e441e5895fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e40ff2178ccd37d39a98908a62230f80') in 0.011614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_1_sample4.png
+  artifactKey: Guid(48811d4d52e8c2b4eb7793322201b3d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_1_sample4.png using Guid(48811d4d52e8c2b4eb7793322201b3d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2f1af3dcc000223cb8d8522cfc555de3') in 0.013970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_n.png
+  artifactKey: Guid(29b4cc02c1ced4d4e8aeb8bf118bb40d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_n.png using Guid(29b4cc02c1ced4d4e8aeb8bf118bb40d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f15680fda669d6f3ca6da542b126fd87') in 0.012136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Boulder04_n.png
+  artifactKey: Guid(6a0d33edea36ef9419dd1f97a5c52ea3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Boulder04_n.png using Guid(6a0d33edea36ef9419dd1f97a5c52ea3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5a175ebdf1c4ad9315676dfcef5957a6') in 0.010273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ForestScene/Models/Vegetation/BirchTrees/Textures/TreeTrunk01_n.png
+  artifactKey: Guid(df89806e8af9bd243ad7d2756c2bc349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/BirchTrees/Textures/TreeTrunk01_n.png using Guid(df89806e8af9bd243ad7d2756c2bc349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '37ba2bd7f40efadceb37d7fffb2ef117') in 0.007460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Materials/OakTree03.mat
+  artifactKey: Guid(76b47ab8ec3728249946f8f029ec41bb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Materials/OakTree03.mat using Guid(76b47ab8ec3728249946f8f029ec41bb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '25141adce60dcef2bacccabc74cc62cf') in 0.006846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms02_n.png
+  artifactKey: Guid(acb04f65700023d429cfb4a37fa2076f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms02_n.png using Guid(acb04f65700023d429cfb4a37fa2076f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1918ac95c816e58f094c647e0971cbe6') in 0.009276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/Grass02.png
+  artifactKey: Guid(93e7554790ba1f640b1ddb896ac66507) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/Grass02.png using Guid(93e7554790ba1f640b1ddb896ac66507) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '51cec346eeba4b70f98e87d4cf783046') in 0.008697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_a.png
+  artifactKey: Guid(3fe1213c565022a49b6a6d3a9a66d60e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_a.png using Guid(3fe1213c565022a49b6a6d3a9a66d60e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fb25a4e050089da32099bdbcd95a0182') in 0.007478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_1_sample2.png
+  artifactKey: Guid(01d6dcb9f69995d41808fafc9b58ffe2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_1_sample2.png using Guid(01d6dcb9f69995d41808fafc9b58ffe2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ceabd30ca3e9b668dfbbd66b4ec32a45') in 0.007854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms01_o.png
+  artifactKey: Guid(c759c55b6362c654e852909dbc2b3ae2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms01_o.png using Guid(c759c55b6362c654e852909dbc2b3ae2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4d009e23b1cc6e3c6dc74121cb3d9b12') in 0.013505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Materials/OakTree04.mat
+  artifactKey: Guid(547d0b45d044e624b985600fc86cb242) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Materials/OakTree04.mat using Guid(547d0b45d044e624b985600fc86cb242) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '41499575ca13943519a425be614ad83e') in 0.009761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeLeaves01b_a.png
+  artifactKey: Guid(dc90df6113cd41d45a04e130493fdda4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeLeaves01b_a.png using Guid(dc90df6113cd41d45a04e130493fdda4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '605d623c36e3ed90ae4fbbe1135e277b') in 0.010280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTree02_n.png
+  artifactKey: Guid(2a281c4a722b54c4bae0ee48d21a4aad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTree02_n.png using Guid(2a281c4a722b54c4bae0ee48d21a4aad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c2e164e92fd1c8a028c119fd9524e81c') in 0.014192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms01_a.png
+  artifactKey: Guid(1858ab615153c8442bd822364f20114f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Mushrooms01_a.png using Guid(1858ab615153c8442bd822364f20114f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'eaaed95498c6ea2a98ab30fdbfab9e40') in 0.011521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/Grass01.png
+  artifactKey: Guid(f260bf73a8296534786c8f7e5bfb0acf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/Grass01.png using Guid(f260bf73a8296534786c8f7e5bfb0acf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f219fec495f9d25e2ca630f7afe4a3bd') in 0.007408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeTrunk01_m.png
+  artifactKey: Guid(130f68d60a64d234b95c32948d1f0c36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeTrunk01_m.png using Guid(130f68d60a64d234b95c32948d1f0c36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'afba6d14b2c75abfc78c8d1f4cecb92c') in 0.009924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Materials/BirchTree04.mat
+  artifactKey: Guid(3c218db24fd58b84a8744de02addc3cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Materials/BirchTree04.mat using Guid(3c218db24fd58b84a8744de02addc3cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7d61eff4cf38b78b5ee278cf4f855c45') in 0.007724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/Flowers03.png
+  artifactKey: Guid(fd67f85ef46991d468c6c257b445d5b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/Flowers03.png using Guid(fd67f85ef46991d468c6c257b445d5b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd38081818f99b32aecaa21304c43e05f') in 0.008763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Ivy/Textures/Ivy01.png
+  artifactKey: Guid(e473447eca3708549a3e0d10d840da37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Ivy/Textures/Ivy01.png using Guid(e473447eca3708549a3e0d10d840da37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2289be660329e2b71f234c8f20f0a903') in 0.007556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots04_m.png
+  artifactKey: Guid(27ae942a5eafbce47937a4a78ea66864) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots04_m.png using Guid(27ae942a5eafbce47937a4a78ea66864) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '109aaadb6abe726bb5484da1860e58a8') in 0.013198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Boulder02_n.png
+  artifactKey: Guid(489515b8c959d5f4eaf67e7860a6a8c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Boulder02_n.png using Guid(489515b8c959d5f4eaf67e7860a6a8c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c5d679741a362e592b966859ab22613a') in 0.013171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/png/Izul_4_normal.png
+  artifactKey: Guid(43fde154ea7b22946b6156f0491f77f2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/png/Izul_4_normal.png using Guid(43fde154ea7b22946b6156f0491f77f2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6e8594605675b99d237a05467caec774') in 0.017478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoWeapons.fbx
+  artifactKey: Guid(ddf249d57ec421646811ed34c0d41a81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoWeapons.fbx using Guid(ddf249d57ec421646811ed34c0d41a81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6436f0356297de7072ed3af97c17488e') in 0.021221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_3_sample1.png
+  artifactKey: Guid(d721647b6b105c84e87d188a5c655c4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_3_sample1.png using Guid(d721647b6b105c84e87d188a5c655c4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '68d8e59826fe50b17f54ec92f481b455') in 0.013556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/CliffDetail_n.png
+  artifactKey: Guid(a0f10d5b49e016c4a94dc3c1fa7d8d38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/CliffDetail_n.png using Guid(a0f10d5b49e016c4a94dc3c1fa7d8d38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd37e4aa6f2cdbfc001c3a3aa27cf7537') in 0.016047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_3_sample3.png
+  artifactKey: Guid(e97950cdadf79e44aae62bbddedd3fe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Character/Izul/Izul_v2-01_虛擬偶像/Texture/__/Izul_3_sample3.png using Guid(e97950cdadf79e44aae62bbddedd3fe7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '26080da8c93a032164501a94957e928a') in 0.011809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff05_m.png
+  artifactKey: Guid(ebb184a8670b4ca4b89f26596e6e86d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff05_m.png using Guid(ebb184a8670b4ca4b89f26596e6e86d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5e205d661505593e7fe04f05972b2b75') in 0.044440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/IdleCombat.fbx
+  artifactKey: Guid(829acf3bdd8b5134c856a438feb8d146) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Combat/IdleCombat.fbx using Guid(829acf3bdd8b5134c856a438feb8d146) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7aea0ca145dedf02e54b2a38d70d7ff7') in 0.017502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTree04.mat
+  artifactKey: Guid(aa79008948505bf4fbd5b0f433a2f7ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTree04.mat using Guid(aa79008948505bf4fbd5b0f433a2f7ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0f83d70fce29e0f7a777788083f1180b') in 0.027979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunBackward.fbx
+  artifactKey: Guid(80a965ca1b75e4843aea0231b6ad964d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunBackward.fbx using Guid(80a965ca1b75e4843aea0231b6ad964d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '03d5640942226bafa91596b36cc46200') in 0.019811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder01.mat
+  artifactKey: Guid(d099283c1bdb07d47a78de8558012afc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder01.mat using Guid(d099283c1bdb07d47a78de8558012afc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e068dcc2b062c82f5ead4ba3ffef8fee') in 0.027137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoHanded.fbx
+  artifactKey: Guid(b7ca531b8805e254486e9d3d0105c658) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoHanded.fbx using Guid(b7ca531b8805e254486e9d3d0105c658) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '17a359bc44d0cf1431acae5315b4e9f5') in 0.019164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/Jumps.fbx
+  artifactKey: Guid(f3ecb786c060c5d4b954c1101993ba93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/Jumps.fbx using Guid(f3ecb786c060c5d4b954c1101993ba93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '71c2b3f713a176745404cf1b3f7b0d83') in 0.027606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 162
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/FallingLoop.fbx
+  artifactKey: Guid(6bca503a45e384e4a8f7e70dff618e21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/FallingLoop.fbx using Guid(6bca503a45e384e4a8f7e70dff618e21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '14e67aef1cfaf47a64223c29b3304437') in 0.021493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/Materials/Flowers05.mat
+  artifactKey: Guid(abd704df90ac7c249a7e0e8c5af09d68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/Materials/Flowers05.mat using Guid(abd704df90ac7c249a7e0e8c5af09d68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f69b22f3d48f418d681c9a986f306352') in 0.006942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/Roots04.mat
+  artifactKey: Guid(4bd9205af038d9f4eaf30aac548e2141) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/Roots04.mat using Guid(4bd9205af038d9f4eaf30aac548e2141) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'bc7b25468327c21c34dcd18e5580d0bf') in 0.037345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/Sprint.fbx
+  artifactKey: Guid(cb5648781d5ed0040833dafdb5746388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/Sprint.fbx using Guid(cb5648781d5ed0040833dafdb5746388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '2a2fcd83b45c234196cb0fb76e59d11d') in 0.047872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder05.mat
+  artifactKey: Guid(6c0f846473301524098c08707be6d206) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder05.mat using Guid(6c0f846473301524098c08707be6d206) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f9be85adfcb8c48afbaba9c210a6fe02') in 0.032124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollBackward.fbx
+  artifactKey: Guid(acf87b1699f3da94fb6bef19112bd7c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollBackward.fbx using Guid(acf87b1699f3da94fb6bef19112bd7c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '37dd62570e0499be2ddaa38844542a1c') in 0.024109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoWeapons.fbx
+  artifactKey: Guid(d9ffbe8a1c84f654d98138a4ed3fc1a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinAttack_TwoWeapons.fbx using Guid(d9ffbe8a1c84f654d98138a4ed3fc1a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '95c506c87f45d713fab77791c796a960') in 0.023912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/Materials/Cliff03_Grass.mat
+  artifactKey: Guid(730b124329dbdc048a34c9a9054a4e76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/Materials/Cliff03_Grass.mat using Guid(730b124329dbdc048a34c9a9054a4e76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b73e53e5e19bd6c2e4346505af653f3d') in 0.069328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder04_Snow.mat
+  artifactKey: Guid(ec9991f958dfc1b458bdbb5e65134c30) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder04_Snow.mat using Guid(ec9991f958dfc1b458bdbb5e65134c30) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ada3e29d3f714053c200ca5c8771f92d') in 0.023464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollForward.fbx
+  artifactKey: Guid(5c46265a19177c84088b79c7a1e48f49) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollForward.fbx using Guid(5c46265a19177c84088b79c7a1e48f49) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '32cbe8ced64135d24772d52b81c81762') in 0.019517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/StrafeRight.fbx
+  artifactKey: Guid(369daf8dfff800d4893516dedb801d44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/StrafeRight.fbx using Guid(369daf8dfff800d4893516dedb801d44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '93129e5b70fcbd92e15f5cb0f5e996b4') in 0.020911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder03_Snow.mat
+  artifactKey: Guid(5a81d47250609fc4dbbb93d73d652aab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Boulders/Textures/Materials/Boulder03_Snow.mat using Guid(5a81d47250609fc4dbbb93d73d652aab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a26c0f7bbd1983bc3769eff696f836ea') in 0.022256 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/JumpWhileRunning.fbx
+  artifactKey: Guid(8de3488ba537f3c45af27977b4b6ee11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/JumpWhileRunning.fbx using Guid(8de3488ba537f3c45af27977b4b6ee11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'bbf75d3dc3ea9452c5b4f2ce05deff03') in 0.015263 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Materials/Mushrooms02.mat
+  artifactKey: Guid(436577ea23cc72f43bb1f8421d86576d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Materials/Mushrooms02.mat using Guid(436577ea23cc72f43bb1f8421d86576d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0118ba3ea0ba2bb544dd5d549e7525db') in 0.026240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Materials/Mushrooms01.mat
+  artifactKey: Guid(b484eb83ba0ebe644a8fe4f7bb0fd65a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Mushrooms/Textures/Materials/Mushrooms01.mat using Guid(b484eb83ba0ebe644a8fe4f7bb0fd65a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd885e4b343c87f101431bd07a7fe6b80') in 0.026981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollLeft.fbx
+  artifactKey: Guid(0fbc7cc708e82784db3f186c5c316370) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollLeft.fbx using Guid(0fbc7cc708e82784db3f186c5c316370) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f0142e91768f2582415e3d8368bc3fc8') in 0.016170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunForward.fbx
+  artifactKey: Guid(6581157a50592fa4ca8c667999b21e11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunForward.fbx using Guid(6581157a50592fa4ca8c667999b21e11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '6f8a70d3179af210f988c51d8726932c') in 0.019602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTreeLeaves01.mat
+  artifactKey: Guid(5cb8f667f7550054fa6a2ae38810d92d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTreeLeaves01.mat using Guid(5cb8f667f7550054fa6a2ae38810d92d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '95fd91e6ae299c97ecb352664a376910') in 0.009036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunBackwardRight.fbx
+  artifactKey: Guid(994a3462b80fe024cbca87f322080368) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RunBackwardRight.fbx using Guid(994a3462b80fe024cbca87f322080368) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '047fdaeb704cef1086cdc1aaa8692faf') in 0.022019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/Materials/WaterLily.mat
+  artifactKey: Guid(1ffc33acd2beee34eb08705ef49215e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/Materials/WaterLily.mat using Guid(1ffc33acd2beee34eb08705ef49215e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a9a0770f3f51f3a739988a8619af167d') in 0.008737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/BowShot.fbx
+  artifactKey: Guid(cdf221ee2d0a60642ada4f3948734cfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/BowShot.fbx using Guid(cdf221ee2d0a60642ada4f3948734cfc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '956389114c625beda96e02370646ac1f') in 0.021283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTreeDead_Snow.mat
+  artifactKey: Guid(a0d40404fe5e05343a54d4264e20a659) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTreeDead_Snow.mat using Guid(a0d40404fe5e05343a54d4264e20a659) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a6707bbbd52ca5b7194c4818a8d9c9c1') in 0.119433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/GetHit.fbx
+  artifactKey: Guid(7ad68b8af8f66924582aac0c256395f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/GetHit.fbx using Guid(7ad68b8af8f66924582aac0c256395f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '8e980d70bf9fbfa753acbeb3e661e797') in 0.014479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinLoop_TwoHanded.fbx
+  artifactKey: Guid(d29f6221974f3394f9d12cf2aabecd86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/SpinLoop_TwoHanded.fbx using Guid(d29f6221974f3394f9d12cf2aabecd86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '325652a067027ceae20dbfedf63eacd7') in 0.020674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollForward.fbx
+  artifactKey: Guid(088b0c8902ffb484a8abcc52cb5578ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/大劍/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollForward.fbx using Guid(088b0c8902ffb484a8abcc52cb5578ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c0beb22218bf56745c88c30a7b16b920') in 0.015945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/Idle.fbx
+  artifactKey: Guid(e261724d12965c047a9ad8be0f0aca1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/Idle.fbx using Guid(e261724d12965c047a9ad8be0f0aca1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '78c3f295abc1f936468acc34c185283c') in 0.018113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff02_a.png
+  artifactKey: Guid(c62db5b329a61e04b94a78a0fbae0576) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Rocks/Cliffs/Textures/Cliff02_a.png using Guid(c62db5b329a61e04b94a78a0fbae0576) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '930af2bc5978c42797c8ed90fe508871') in 0.014089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Materials/Bush01.mat
+  artifactKey: Guid(fcd81e9f1b3d63b4f8f106e670b5d2fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Materials/Bush01.mat using Guid(fcd81e9f1b3d63b4f8f106e670b5d2fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e9f194feae61dcfa8ea35a016a5ca2b1') in 0.006249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/MeeleeAttack_TwoHanded.fbx
+  artifactKey: Guid(b96f9ee671b26194d801a9b1021f0fc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Combat/MeeleeAttack_TwoHanded.fbx using Guid(b96f9ee671b26194d801a9b1021f0fc6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '587ee5409239f583d0b3bdaadeb6ef2d') in 0.017059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTree02_m.png
+  artifactKey: Guid(f83cd29a06b58fd468d5087494b20313) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTree02_m.png using Guid(f83cd29a06b58fd468d5087494b20313) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '4184d8cf09dc5c010d0319efcae63334') in 0.013845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollRight.fbx
+  artifactKey: Guid(92f90dfc05bed7b43afa2177dbd1fd8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Motion/雙刀/有大風車(雙手劍)的各種基本動作/Animations/Movement/RollRight.fbx using Guid(92f90dfc05bed7b43afa2177dbd1fd8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '10acb59f02779300f2c24032dd245e35') in 0.017823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 160
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Materials/PineTree02b.mat
+  artifactKey: Guid(9cffb24df58583240ac5fc13f5b268ae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Materials/PineTree02b.mat using Guid(9cffb24df58583240ac5fc13f5b268ae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd0ccfd98b3bd0b0f53b63270e23032ae') in 0.006895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTree02.mat
+  artifactKey: Guid(f96f72b31fcf8844db5cb7e88809d6b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Materials/OakTree02.mat using Guid(f96f72b31fcf8844db5cb7e88809d6b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '977237b66bc9adacf5db515be263010e') in 0.022058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: �]����������������ε{���n�D�A�ҥH�w���� I/O �ާ@�C
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

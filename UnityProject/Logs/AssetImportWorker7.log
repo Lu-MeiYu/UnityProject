@@ -1,0 +1,507 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.52f1 (1120fcb54228) revision 1122556'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'zh' Physical Memory: 32471 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.52f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/justx/UnityProject/UnityProject
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+50944
+Successfully changed project path to: C:/Users/justx/UnityProject/UnityProject
+C:/Users/justx/UnityProject/UnityProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3448]  Target information:
+
+Player connection [3448]  * "[IP] 192.168.0.114 [Port] 0 [Flags] 2 [Guid] 120587182 [EditorId] 120587182 [Version] 1048832 [Id] WindowsEditor(7,�������q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3448] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3448] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Refreshing native plugins compatible for Editor in 5.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.52f1 (1120fcb54228)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/justx/UnityProject/UnityProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7971 MB
+    Driver:   31.0.15.3753
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.005665 seconds.
+- Loaded All Assemblies, in  0.241 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 198 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.411 seconds
+Domain Reload Profiling: 651ms
+	BeginReloadAssembly (71ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (70ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (103ms)
+			TypeCache.Refresh (102ms)
+				TypeCache.ScanAssembly (92ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (411ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (381ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (267ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (82ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.473 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.439 seconds
+Domain Reload Profiling: 910ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (294ms)
+		LoadAssemblies (216ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (149ms)
+			TypeCache.Refresh (136ms)
+				TypeCache.ScanAssembly (124ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (439ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (341ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (243ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3118 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (487.1 KB). Loaded Objects now: 3603.
+Memory consumption went from 248.5 MB to 248.0 MB.
+Total: 2.353900 ms (FindLiveObjects: 0.166800 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.982100 ms  DeleteObjects: 0.157700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5817.184350 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree04_id.png
+  artifactKey: Guid(2d813f4414367324398a8ca1dbb9344a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree04_id.png using Guid(2d813f4414367324398a8ca1dbb9344a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'e4b0fff51591d6ab8166b4339b961995') in 0.054003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.011574 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/OakTree05_id.png
+  artifactKey: Guid(1deb12bbd42338e46a8080f324113e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/OakTree05_id.png using Guid(1deb12bbd42338e46a8080f324113e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '42c4478c2712b9fee0cc5df772b7d888') in 0.009520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeBroken01_a.png
+  artifactKey: Guid(46cd2908f4902a141aba4070f746d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeBroken01_a.png using Guid(46cd2908f4902a141aba4070f746d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '139cbb52a9e2f51b555e401d80e2fef1') in 0.015972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.197952 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeDead01_a.png
+  artifactKey: Guid(e7099d8717571474683d68c8aa03d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeDead01_a.png using Guid(e7099d8717571474683d68c8aa03d5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '729ddc95f084276aaf185801a9cef98c') in 0.014766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.034544 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeLeaves01_a.png
+  artifactKey: Guid(6ac4c95bd0c1bd84f83f00eb6ddc4c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeLeaves01_a.png using Guid(6ac4c95bd0c1bd84f83f00eb6ddc4c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fcb66ad21daf94ee5656bb0d186bb5a8') in 0.010975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeTrunk01_a.png
+  artifactKey: Guid(e9b71f2cd23d68148b56401b5c865730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/OakTreeTrunk01_a.png using Guid(e9b71f2cd23d68148b56401b5c865730) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'dc45b0b614192232db7e6274bd10874d') in 0.008663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.535055 seconds.
+  path: Assets/ForestScene/Models/Architecture/Textures/PillarBroken01_m.png
+  artifactKey: Guid(7aef729f3e4f91247bbcf5760ab20884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Architecture/Textures/PillarBroken01_m.png using Guid(7aef729f3e4f91247bbcf5760ab20884) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '42bade31992fb96069ffbcfd85a52cdc') in 0.014223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.203685 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Pine02_n.png
+  artifactKey: Guid(2e40afc51c502a547b210a439e1f1737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Pine02_n.png using Guid(2e40afc51c502a547b210a439e1f1737) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ee90bde28d531adf20b31d2adf897793') in 0.031512 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.028210 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/PineTree01b_id.png
+  artifactKey: Guid(00e20e2e6c504164b9fb177a0238c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/PineTree01b_id.png using Guid(00e20e2e6c504164b9fb177a0238c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '3d700d16c08634c4073a11efbebce890') in 0.009883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/PineTree02b_id.png
+  artifactKey: Guid(c2fe09e99329736459d5d40178958c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/PineTree02b_id.png using Guid(c2fe09e99329736459d5d40178958c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'fa81a788421b011f644a36f21d20cef3') in 0.006690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.209902 seconds.
+  path: Assets/ForestScene/Models/Vegetation/PineTrees/Textures/PineTreeLeaves01_a.png
+  artifactKey: Guid(2b5768e7bad8aa04f86fe1c422f08194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/PineTrees/Textures/PineTreeLeaves01_a.png using Guid(2b5768e7bad8aa04f86fe1c422f08194) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b4717ed348ee610e714e2834fadd84f3') in 0.015153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.040126 seconds.
+  path: Assets/ForestScene/Models/Vegetation/PineTrees/Textures/PineTreeTrunk01_o.png
+  artifactKey: Guid(8e1e354c3d6520441a16e2c9815f363f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/PineTrees/Textures/PineTreeTrunk01_o.png using Guid(8e1e354c3d6520441a16e2c9815f363f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '7d69de0d04b4507da2d3d93425a98eb3') in 0.006425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-0.exr
+  artifactKey: Guid(5011b595c23784a4bb9e15600b1cee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Scenes/Scene_Demo/Scene_Demo/ReflectionProbe-0.exr using Guid(5011b595c23784a4bb9e15600b1cee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f92a7e836872805d789fa5cb27f0148c') in 0.027345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.201855 seconds.
+  path: Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_a.png
+  artifactKey: Guid(3fe1213c565022a49b6a6d3a9a66d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Rocks/Rocks/Textures/Rocks_a.png using Guid(3fe1213c565022a49b6a6d3a9a66d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '137f50b9a6cf454dab3f56493a3a615f') in 0.023072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.024582 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots01_n.png
+  artifactKey: Guid(ff818f3ff820b4648acd4f40ff150749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots01_n.png using Guid(ff818f3ff820b4648acd4f40ff150749) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '03f2fb5fa358e404259013c460dd9571') in 0.018084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots03_a.png
+  artifactKey: Guid(090693f36805bae4e9feb9930c289e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/OakTrees/Textures/Roots03_a.png using Guid(090693f36805bae4e9feb9930c289e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'b7e5ae94c40910132cba16af6c188880') in 0.012786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.209732 seconds.
+  path: Assets/Character/蓝砚/sph/s.bmp
+  artifactKey: Guid(8ef106e2f5210c245be6f88db3e06bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/蓝砚/sph/s.bmp using Guid(8ef106e2f5210c245be6f88db3e06bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '03fd8a45f79748b289cc954ff1fb29a1') in 0.008477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.033887 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Sand01_m.png
+  artifactKey: Guid(3789c75236a7cb040a02cf592eb98bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Textures/Surfaces/Sand01_m.png using Guid(3789c75236a7cb040a02cf592eb98bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd2e39b4249c37cc00ba79b19760a0828') in 0.014556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.014854 seconds.
+  path: Assets/ForestScene/Textures/Surfaces/Sand02b_a.png
+  artifactKey: Guid(3df2f8b332be1e54b80ddeb0b0e18d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Textures/Surfaces/Sand02b_a.png using Guid(3df2f8b332be1e54b80ddeb0b0e18d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5da5fff1ca93ab1072325588eed51b91') in 0.016316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.240441 seconds.
+  path: Assets/Character/蓝砚/skin.bmp
+  artifactKey: Guid(c096a30e849ece44fa0373396169b839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/蓝砚/skin.bmp using Guid(c096a30e849ece44fa0373396169b839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '9fae740d63fda948df642d7cc983747d') in 0.007200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.059783 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Snowdrift01_a.png
+  artifactKey: Guid(ed4eb91500cecb04aa520b3aa6fbaa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Banks/Textures/Snowdrift01_a.png using Guid(ed4eb91500cecb04aa520b3aa6fbaa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5091b2fb34b009eb0f2103d40a652b3d') in 0.012090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.191058 seconds.
+  path: Assets/ForestScene/Models/Banks/Textures/Snowdrift02_m.png
+  artifactKey: Guid(ab883363212a01f4c82ab5b93c6af853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Banks/Textures/Snowdrift02_m.png using Guid(ab883363212a01f4c82ab5b93c6af853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '5dea35bb04904c65b175923389df560d') in 0.014730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.070954 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/TallTree01_id.png
+  artifactKey: Guid(af56a9365a82add4cb1b3dfc351760ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/TallTree01_id.png using Guid(af56a9365a82add4cb1b3dfc351760ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '8a699bd9dd66c0e4b5821fdb3d9312b7') in 0.006776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_id.png
+  artifactKey: Guid(68c62076df73c0146aef5dd045aa96b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/TallTree02_id.png using Guid(68c62076df73c0146aef5dd045aa96b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c45c187a70462f072f2f8ec505826d66') in 0.006879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.191520 seconds.
+  path: Assets/Character/蓝砚/toon_defo.bmp
+  artifactKey: Guid(bc654b4c24a135e4a9535027df330e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/蓝砚/toon_defo.bmp using Guid(bc654b4c24a135e4a9535027df330e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'd0ab925ecb5586fd6a22038d01f324c0') in 0.007519 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.051416 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Billboards/Tree03_id.png
+  artifactKey: Guid(24f1752ac445fb34782557f6a820427a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Billboards/Tree03_id.png using Guid(24f1752ac445fb34782557f6a820427a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '49f9c8350f38d36e69dcac6db3d9eae8') in 0.005615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.285124 seconds.
+  path: Assets/ForestScene/Models/Vegetation/BirchTrees/Textures/TreeTrunk01_a.png
+  artifactKey: Guid(e5ef5502120f8f34c8b43394a9d15cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/BirchTrees/Textures/TreeTrunk01_a.png using Guid(e5ef5502120f8f34c8b43394a9d15cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'de7a6d7ef01e506cb08649c2291123dd') in 0.011134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.038000 seconds.
+  path: Assets/ForestScene/Textures/Water/Waterfall01_Cloud_a.png
+  artifactKey: Guid(2fd70f30601c1474399dd0df9cfc1849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Textures/Water/Waterfall01_Cloud_a.png using Guid(2fd70f30601c1474399dd0df9cfc1849) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '1f2681c042e3dadf72ddb35670414e35') in 0.007531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.040102 seconds.
+  path: Assets/ForestScene/Models/Vegetation/Grass/Textures/WaterLily_n.png
+  artifactKey: Guid(7888a0a2af12f284880ebef1a5f2482f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ForestScene/Models/Vegetation/Grass/Textures/WaterLily_n.png using Guid(7888a0a2af12f284880ebef1a5f2482f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '12c9788e058dc7894becf92164929480') in 0.008656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.269602 seconds.
+  path: Assets/Weapon/玛薇卡专武-焚曜千阳_by_看到结局的人_b4e68c59f65366f9c7d2decdf576e3b2/挕2.png
+  artifactKey: Guid(2059ff3eefea98246b09389c21d6755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Weapon/玛薇卡专武-焚曜千阳_by_看到结局的人_b4e68c59f65366f9c7d2decdf576e3b2/挕2.png using Guid(2059ff3eefea98246b09389c21d6755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'f1d9978ce8b263674de4dc0629dccb9c') in 0.010610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.044275 seconds.
+  path: Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/衣服1.png
+  artifactKey: Guid(5f834b5b36c879149b50119113c6decc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Weapon/星穹铁道—三月七_by_崩坏：星穹铁道_7bffc09c69039df537f835bfe9d82ed9/星穹铁道—三月七/衣服1.png using Guid(5f834b5b36c879149b50119113c6decc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'c116d859e700c500c3482ef585249455') in 0.007788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: �]����������������ε{���n�D�A�ҥH�w���� I/O �ާ@�C
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
