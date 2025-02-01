@@ -335,7 +335,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
@@ -361,6 +367,12 @@
 "Assets/ForestScene/Scripts/EnvironmentManager.cs"
 "Assets/ForestScene/Scripts/FreeCamera.cs"
 "Assets/ForestScene/Scripts/WaterReflection.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/For demo scenes/HS_ArcherInput.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/For demo scenes/HS_CameraController.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/For demo scenes/HS_CameraShaker.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/HS_FrontAttack.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/HS_ParticleCollisionInstance.cs"
+"Assets/Hovl Studio/HSFiles/Scripts/HS_TargetProjectile.cs"
 -langversion:9.0
 /deterministic
 /optimize+
