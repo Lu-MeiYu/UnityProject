@@ -1,0 +1,1740 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.52f1 (1120fcb54228) revision 1122556'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'zh' Physical Memory: 32471 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.52f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/justx/UnityProject/UnityProject
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+50947
+Successfully changed project path to: C:/Users/justx/UnityProject/UnityProject
+C:/Users/justx/UnityProject/UnityProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18484]  Target information:
+
+Player connection [18484]  * "[IP] 192.168.0.114 [Port] 0 [Flags] 2 [Guid] 2550811974 [EditorId] 2550811974 [Version] 1048832 [Id] WindowsEditor(7,¦öªºµ§¹q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18484] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18484] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Refreshing native plugins compatible for Editor in 4.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.52f1 (1120fcb54228)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/justx/UnityProject/UnityProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7971 MB
+    Driver:   31.0.15.3753
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.010374 seconds.
+- Loaded All Assemblies, in  0.356 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 250 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.482 seconds
+Domain Reload Profiling: 837ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (147ms)
+		LoadAssemblies (109ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (144ms)
+			TypeCache.Refresh (142ms)
+				TypeCache.ScanAssembly (126ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (482ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (441ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (324ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (81ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.461 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.454 seconds
+Domain Reload Profiling: 913ms
+	BeginReloadAssembly (107ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (298ms)
+		LoadAssemblies (220ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (126ms)
+				TypeCache.ScanAssembly (112ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (454ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (361ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (236ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4220 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (0.8 MB). Loaded Objects now: 4702.
+Memory consumption went from 275.2 MB to 274.4 MB.
+Total: 2.791500 ms (FindLiveObjects: 0.200100 ms CreateObjectMapping: 0.105300 ms MarkObjects: 2.290900 ms  DeleteObjects: 0.194300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 266784.807481 seconds.
+  path: Assets/Motion/HEROIC FANTASY CREATURES FULL PACK/MUST HAVE FANTASY VILLAINS PACK/GOBLIN/Materials/GOBLIN tint C.mat
+  artifactKey: Guid(53e0eb3927946264aabb5c805e72eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Motion/HEROIC FANTASY CREATURES FULL PACK/MUST HAVE FANTASY VILLAINS PACK/GOBLIN/Materials/GOBLIN tint C.mat using Guid(53e0eb3927946264aabb5c805e72eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'a7713094f338cf3ec9de84967ff8c27f') in 0.189617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.397 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.685 seconds
+Domain Reload Profiling: 1081ms
+	BeginReloadAssembly (165ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (180ms)
+		LoadAssemblies (238ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (686ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (341ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (217ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4240 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (2.5 MB). Loaded Objects now: 4798.
+Memory consumption went from 277.3 MB to 274.8 MB.
+Total: 4.286300 ms (FindLiveObjects: 0.331300 ms CreateObjectMapping: 0.138900 ms MarkObjects: 3.336700 ms  DeleteObjects: 0.478100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: 118d1cc0b80ef55883adea4c1c9d1b68 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 4f187056f4b2d1d3df03a1559598d5ed -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: b881ff5845a0deddfc42805778f5e688 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 74d3b9e6ee5a1cdc58e41982e1938b5f -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 57e37fca695f026ec97bc10de2e55b2f -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: b4ef639b6f389f768e6abca5ae3697ff -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 4f8c4ad0892e3fae6bb6bc34d8342720 -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: d2436e6f7de319ac2884f3c08550b715 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 969e6a49b5080f0b5b78713c523dc0f6 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: deb656f231ee8073065c04ec1fac9f3f -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 72a8c5e409c05baafa3df7c122323632 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: f35b880a54abbf17e44c1318b417a339 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: 86c584137f1bfdd2acfcc255b500ce77 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: 38880dc084cc5887bf8201217e15e8ec -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f9fd7350c67ebe99417a3759763456b6 -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 8c5dd8ab4afc56a1262fd01507f666d7 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: d453171be5ed29f32fc14836c222451f -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 558f048ebb5756dd5e7721ccfbdf3f64 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: b5b904ef6037494b0ce21a8afb85f13e -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 03b7ed6d8f987fb2caa3d7ba9f1927eb -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: 60fe02133d3e7448f912cdc3671d2557 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: f7cb19e5fab757703593378f2ba0deaf -> 
+  custom:scripting/monoscript/fileName/photoController.cs: b3abb24a92175dac526136c112be6679 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 58a8080d7b26ea14d47c773f94c8c297 -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: c0f161f7e88a205533b64380cf253341 -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 7a133d3e8b47cb8d5892dfd0f306293b -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f805ce4883832b69492bcaaf0232ace6 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: f35ed34b8dc2b8a2ba2e031bc4021a25 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: 8bc87173ac71f3c172c7b02c17c22d29 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: bb2f63c82b86e5c146363b611366cd8c -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 27f36da6ce67f69dac2c92689e511021 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 9cb3e6642c2443a2476e1153d1981d0b -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 10b51b09076744717d1c5952dbb1920e -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: 0c88b599cd1284bd56fbd2160b8ee457 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 95c5e12dee540a00108554e0eea247f0 -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1c4915a2389670f977db0522bb3b413f -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: b2e066e6aa41bf648afe92e04b62b41e -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: ff3f942310f5a0806ede3b2dfa142ae6 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 007ac057047db212661d5ec2cdd1e819 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: c8e3c51dd424827a9b80b5e05fbb526a -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 53c0eb0e06f2c33c6942decc708f59a7 -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 855bae3ca5316cabf37e76f937fde934 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 6b565dd71faeeae000d90641cc4126f5 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 94ea6becee1cd3327dc7bbc538467ac2 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: b64b9055eaffb072bd03c85e9b72208c -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 4f9b4745f64d8a9bda3ba5aa7a0e4376 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: 6b9470a435a8aaf8aa4a5f9bb6e368cd -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: ca408620d8afcf8d9b232548508b6d8d -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 1c3af2cc371c60b80d95db6be7c3f7c4 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b74f23e27684140091a9f93549013991 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.333 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.689 seconds
+Domain Reload Profiling: 1021ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (176ms)
+		LoadAssemblies (209ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (690ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (333ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4240 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (2.5 MB). Loaded Objects now: 4801.
+Memory consumption went from 277.3 MB to 274.8 MB.
+Total: 3.694500 ms (FindLiveObjects: 0.341800 ms CreateObjectMapping: 0.129000 ms MarkObjects: 2.419600 ms  DeleteObjects: 0.802700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: db4e8724d57234d327c4b854014b11e4 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 8d1f994cad4d7939da71249c6b9304bd -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.319 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.673 seconds
+Domain Reload Profiling: 992ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (208ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (674ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (328ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (202ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4240 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (2.5 MB). Loaded Objects now: 4804.
+Memory consumption went from 277.3 MB to 274.8 MB.
+Total: 4.686300 ms (FindLiveObjects: 0.388500 ms CreateObjectMapping: 0.129100 ms MarkObjects: 3.351800 ms  DeleteObjects: 0.815400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: db4e8724d57234d327c4b854014b11e4 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 8d1f994cad4d7939da71249c6b9304bd -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.309 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.659 seconds
+Domain Reload Profiling: 966ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (153ms)
+		LoadAssemblies (197ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (659ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (324ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (203ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4240 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (2.5 MB). Loaded Objects now: 4807.
+Memory consumption went from 277.3 MB to 274.8 MB.
+Total: 4.085600 ms (FindLiveObjects: 0.278300 ms CreateObjectMapping: 0.136500 ms MarkObjects: 2.807800 ms  DeleteObjects: 0.861800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: db4e8724d57234d327c4b854014b11e4 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 8d1f994cad4d7939da71249c6b9304bd -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.344 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.704 seconds
+Domain Reload Profiling: 1047ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (186ms)
+		LoadAssemblies (218ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (10ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (704ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (328ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (203ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4214 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (2.5 MB). Loaded Objects now: 4793.
+Memory consumption went from 276.9 MB to 274.3 MB.
+Total: 4.428400 ms (FindLiveObjects: 0.341500 ms CreateObjectMapping: 0.120700 ms MarkObjects: 3.077900 ms  DeleteObjects: 0.887000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: baa502ad0e62f1987bee86dea7868da7 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 536828fe44d63a89bed597ee3d94c5ea -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.359 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.701 seconds
+Domain Reload Profiling: 1058ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (240ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (701ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (353ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (216ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4201 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (2.5 MB). Loaded Objects now: 4789.
+Memory consumption went from 276.3 MB to 273.8 MB.
+Total: 4.366300 ms (FindLiveObjects: 0.300500 ms CreateObjectMapping: 0.142500 ms MarkObjects: 2.959300 ms  DeleteObjects: 0.962500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 489f3fec758765165f1483aa13f20e79 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: e0108ded61aab68ff1181a73feae1d7d -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.335 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.689 seconds
+Domain Reload Profiling: 1023ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (180ms)
+		LoadAssemblies (210ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (689ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (341ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (212ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4195 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (0.7 MB). Loaded Objects now: 4791.
+Memory consumption went from 273.2 MB to 272.5 MB.
+Total: 3.848500 ms (FindLiveObjects: 0.357600 ms CreateObjectMapping: 0.117100 ms MarkObjects: 3.037200 ms  DeleteObjects: 0.335400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 489f3fec758765165f1483aa13f20e79 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: ce08b81706cace8fee169c6d15c3b1a4 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1264.168930 seconds.
+  path: Assets/Monsters/InfinityPBR/Particle Textures/Circle Flash.mat
+  artifactKey: Guid(2eb3d770c7d3843778018dc175bcd60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters/InfinityPBR/Particle Textures/Circle Flash.mat using Guid(2eb3d770c7d3843778018dc175bcd60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: '0ab3dcf98e51a3a0f09cf88561984643') in 2.776379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.310 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.666 seconds
+Domain Reload Profiling: 974ms
+	BeginReloadAssembly (110ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (152ms)
+		LoadAssemblies (197ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (666ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (336ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 3.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4195 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0.7 MB). Loaded Objects now: 4795.
+Memory consumption went from 345.6 MB to 344.9 MB.
+Total: 3.404700 ms (FindLiveObjects: 0.358700 ms CreateObjectMapping: 0.122600 ms MarkObjects: 2.604300 ms  DeleteObjects: 0.318000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 489f3fec758765165f1483aa13f20e79 -> b0961ca5070dcd5873880a69e26315ca
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: ce08b81706cace8fee169c6d15c3b1a4 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.327 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.733 seconds
+Domain Reload Profiling: 1059ms
+	BeginReloadAssembly (114ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (165ms)
+		LoadAssemblies (205ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (733ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (345ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (208ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4193 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0.7 MB). Loaded Objects now: 4798.
+Memory consumption went from 345.6 MB to 344.8 MB.
+Total: 3.252400 ms (FindLiveObjects: 0.383900 ms CreateObjectMapping: 0.143500 ms MarkObjects: 2.484700 ms  DeleteObjects: 0.238900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: ce08b81706cace8fee169c6d15c3b1a4 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.327 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.693 seconds
+Domain Reload Profiling: 1019ms
+	BeginReloadAssembly (106ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (171ms)
+		LoadAssemblies (205ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (21ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (693ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (361ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (236ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (0.7 MB). Loaded Objects now: 4800.
+Memory consumption went from 345.5 MB to 344.8 MB.
+Total: 3.459200 ms (FindLiveObjects: 0.352200 ms CreateObjectMapping: 0.139600 ms MarkObjects: 2.700500 ms  DeleteObjects: 0.265700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 5bf30c19c92ae7598940558aa46315fb -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.308 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.656 seconds
+Domain Reload Profiling: 962ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (153ms)
+		LoadAssemblies (198ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (656ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (322ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (201ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0.7 MB). Loaded Objects now: 4803.
+Memory consumption went from 345.5 MB to 344.8 MB.
+Total: 3.930100 ms (FindLiveObjects: 0.214100 ms CreateObjectMapping: 0.099700 ms MarkObjects: 3.255100 ms  DeleteObjects: 0.359900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: ec06cc37f6858e08d25582f8f34dfd4a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: f02bac9bdef59ce6f0799c64d2c52c9b -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: e8fa7e45c72e86cee20b38871051ae66 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 5aa5b05ddb1cd44e875719cf882b5163 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: 6047b767c3c87187316f99d949c6774c -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: 247694824c6099907fdb76bc8b5d12dc -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: a9fb11b5fb9da2461fd2455c574b125d -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 5bf30c19c92ae7598940558aa46315fb -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.330 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.693 seconds
+Domain Reload Profiling: 1022ms
+	BeginReloadAssembly (105ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (174ms)
+		LoadAssemblies (208ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (694ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (353ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (231ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0.7 MB). Loaded Objects now: 4806.
+Memory consumption went from 345.6 MB to 344.8 MB.
+Total: 4.254700 ms (FindLiveObjects: 0.404500 ms CreateObjectMapping: 0.152300 ms MarkObjects: 3.364500 ms  DeleteObjects: 0.332000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: baf96e37e40825284d91564ba7f6bb1a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: e5bec6a586aef65a2a032da5650c96f7 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: 4b82f789a64f788791844f9e4cc0eec4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 78831e12768c59a2ba87bbd3e7270b46 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: e17309163a1962565bf82ecbffd64586 -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: f95d26311b48fe4ca2c00ea78fbe3bf4 -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: 116d52ada1061af5c81c30611542fc20 -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: f8d835dc4feb1dc8cc0380eefaf11e32 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.314 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.691 seconds
+Domain Reload Profiling: 1004ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (160ms)
+		LoadAssemblies (203ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (691ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (348ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (210ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 2.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0.7 MB). Loaded Objects now: 4809.
+Memory consumption went from 345.6 MB to 344.8 MB.
+Total: 4.311500 ms (FindLiveObjects: 0.297800 ms CreateObjectMapping: 0.078800 ms MarkObjects: 3.624800 ms  DeleteObjects: 0.308700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/SFB_DemoRockMonster.cs: cebeaa410c707d47effa8788c2bc0349 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SFB_SaveObjectAsMesh.cs: 0864bf1a7505b27155e60938642537ff -> 
+  custom:scripting/monoscript/fileName/SFB_LoadWelcome.cs: 011d21a5511aa8a5edfe047d9caca566 -> 
+  custom:scripting/monoscript/fileName/AnimationEventCopier.cs: 87bd1a3e3e12ae552c6d3e42828319e7 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraRotate_v2.cs: 4574c3d92bc6f2d2c52b364ee53c2285 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SFB_LightColorChange.cs: baf96e37e40825284d91564ba7f6bb1a -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporterEditor.cs: 7f29a2345092f0a945a76cb259a1bdca -> 
+  custom:scripting/monoscript/fileName/SFB_ToggleOpposite.cs: 27f5cdc873a3a5b1287d5e5fc403a41d -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManagerEditor.cs: 94b4a9df832bc8806e1bb593a54c2687 -> 
+  custom:scripting/monoscript/fileName/AudioClipCombiner.cs: 7dbd102afafe647a9246a0fcc77073cc -> 
+  custom:scripting/monoscript/fileName/SFB_AudioSnapshotExporter.cs: 94ee3ec6a1f0e54b30d8908bb8abef96 -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManager.cs: 18dfc7df9510f312fc6535bc4edcdf35 -> 
+  custom:scripting/monoscript/fileName/EquipmentObject.cs: dde3b596a6d27f52a5853d666edcf446 -> 
+  custom:scripting/monoscript/fileName/SFB_CameraFocus.cs: cd1eaae8d0f7204193d8aca1d8484d7e -> 
+  custom:scripting/monoscript/fileName/AudioClipCombinerEditor.cs: f27cb6f054b32b4f300ce27b759fec0c -> 
+  custom:scripting/monoscript/fileName/DemoWardrobe.cs: 5f3e45f2934c15eed6d3c6b42e8c615d -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/EquipObjectMenu.cs: 0767c1f49962ee9031d110734d7a4c64 -> 
+  custom:scripting/monoscript/fileName/EquipObject.cs: 16742cdd96a6587ab96fac73eb8e970a -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/IPBR_EnvironmentWarning.cs: 21ebaac4101d1954e5b6dc1017566faf -> 
+  custom:scripting/monoscript/fileName/SFB_StayWithTarget.cs: 6de06fd0bd11fe29b8aabc1fe040755a -> 
+  custom:scripting/monoscript/fileName/CustomEditor.cs: a53f96815da50de15010b1c479bc70cf -> 
+  custom:scripting/monoscript/fileName/SFB_LightFlicker.cs: e5bec6a586aef65a2a032da5650c96f7 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManager.cs: 4c43a90226c7f60f2c47fef46ae83e27 -> 
+  custom:scripting/monoscript/fileName/photoController.cs: 80e6ba23260639c99a737f5a7e427dc3 -> 
+  custom:scripting/monoscript/fileName/BlendShapesManager.cs: 9d422621a1e727bbe7fa2c138190f47e -> 
+  custom:scripting/monoscript/fileName/SFB_DemoControl_v2.cs: 129ae2c81d6986babf8cdd3892df7c8d -> 
+  custom:scripting/monoscript/fileName/SFB_AnubisDemo.cs: 9f9a0209d955581fdeee236dc8ad2a08 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/BlendShapesManagerEditor.cs: f1908f95164599cf889273da9c4c7397 -> 
+  custom:scripting/monoscript/fileName/SFB_ShotFollowTarget.cs: 6bfc5962c8d07b541e623c272faf9a3e -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOn.cs: 4b82f789a64f788791844f9e4cc0eec4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManagerEditor.cs: 1195d910d9a17f3d341daf58f37eefb2 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoModel.cs: 532a0265b18662cc7e9cd38fd34ae9b8 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleTrailRotation.cs: 78831e12768c59a2ba87bbd3e7270b46 -> 
+  custom:scripting/monoscript/fileName/CustomEditorScriptableObject.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 
+  custom:scripting/monoscript/fileName/EquipmentObjectEditor.cs: 6f48994f8dd748bc9e6834a7f77eaca9 -> 
+  custom:scripting/monoscript/fileName/BlendShapesPresetManagerEditor.cs: bdc84b8e2981575e427b1db75db63672 -> 
+  custom:scripting/monoscript/fileName/SFB_ParticleGrowOverTime.cs: e17309163a1962565bf82ecbffd64586 -> 
+  custom:scripting/monoscript/fileName/DemoKeyCommands.cs: 1e206632857a396b62f3e25b240fef04 -> 
+  custom:scripting/monoscript/fileName/PrefabAndObjectManager.cs: aaf688480d2918fb28b22eb0b9f90b3b -> 
+  custom:scripting/monoscript/fileName/SFB_HumanDemoControl.cs: e9c0e0e1f21a1cac07a54b1c21fbe15d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SFB_TurnOffIfOn.cs: 8e9f6c8279da833e043d4926ea27b944 -> 
+  custom:scripting/monoscript/fileName/IPBR_SupportAndReview.cs: e0b15d1dc6f2fd10aef7c10ed0e4c015 -> 
+  custom:scripting/monoscript/fileName/SFB_LightAutoOff.cs: f95d26311b48fe4ca2c00ea78fbe3bf4 -> 
+  custom:scripting/monoscript/fileName/ObjExporterScript.cs: 1ff0b6907741c9c6dd0831bb85ec4ac6 -> 
+  custom:scripting/monoscript/fileName/SFB_DisplayPolycount.cs: 4e3cb38bb4d612c87c1528fec9674a3b -> 
+  custom:scripting/monoscript/fileName/SFB_BlendShapesManagerEditor.cs: 9ea4bc7e63cc0cb8277589209e0c54ec -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/WardrobePrefabManager.cs: 1b070b28e8f3ea351a24979a4604a3b0 -> 
+  custom:scripting/monoscript/fileName/SFB_MoveOverTime.cs: 116d52ada1061af5c81c30611542fc20 -> 
+  custom:scripting/monoscript/fileName/EquipmentGroup.cs: 30c1067f716445e4918a4b341498ec5e -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: f8d835dc4feb1dc8cc0380eefaf11e32 -> 3307e438d8109cb7a48923fe204f8914
+  custom:scripting/monoscript/fileName/SFB_AudioManager.cs: b73dce84f4ee2dc795189014e4e76853 -> 

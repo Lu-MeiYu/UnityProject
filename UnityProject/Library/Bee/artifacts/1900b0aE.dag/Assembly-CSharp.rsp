@@ -373,6 +373,13 @@
 "Assets/Hovl Studio/HSFiles/Scripts/HS_FrontAttack.cs"
 "Assets/Hovl Studio/HSFiles/Scripts/HS_ParticleCollisionInstance.cs"
 "Assets/Hovl Studio/HSFiles/Scripts/HS_TargetProjectile.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_LightAutoOff.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_LightAutoOn.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_LightColorChange.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_LightFlicker.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_MoveOverTime.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_ParticleGrowOverTime.cs"
+"Assets/Monsters/Boss/Magic Spells & Particles/Scripts/SFB_ParticleTrailRotation.cs"
 -langversion:9.0
 /deterministic
 /optimize+
