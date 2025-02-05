@@ -258,7 +258,7 @@ QualitySettings:
     shadowResolution: 2
     shadowProjection: 1
     shadowCascades: 1
-    shadowDistance: 100
+    shadowDistance: 30
     shadowNearPlaneOffset: 3
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.15536469, y: 0.40705585, z: 0.60777086}
@@ -275,7 +275,7 @@ QualitySettings:
     useLegacyDetailDistribution: 1
     vSyncCount: 1
     realtimeGICPUUsage: 100
-    lodBias: 0.3
+    lodBias: 0.2
     maximumLODLevel: 0
     enableLODCrossFade: 1
     streamingMipmapsActive: 0

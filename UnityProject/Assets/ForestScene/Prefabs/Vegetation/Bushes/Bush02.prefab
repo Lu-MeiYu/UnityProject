@@ -126,7 +126,7 @@ LODGroup:
   m_GameObject: {fileID: 8464703607369277221}
   serializedVersion: 2
   m_LocalReferencePoint: {x: 0.07731235, y: 1.7882254, z: -0.05939436}
-  m_Size: 3.7766607
+  m_Size: 10
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
